@@ -1,0 +1,87 @@
+{
+    "Personal Information": {
+      "Name": "Sreya Palo",
+      "Contact Information": {
+        "Phone": "7416541889",
+        "Email": "sreyapalo8181@gmail.com",
+        "LinkedIn": "linkedin.com/Sreya palo",
+        "GitHub": "github.com/SREYA-PALO"
+      }
+    },
+    "Education": [
+      {
+        "Institution": "SRM Institute of Science and Technology",
+        "Degree": "Bachelor of Technology in CSE (AIML)",
+        "GPA": 9.6,
+        "End Date": "Expected May 2025",
+        "Location": "Kattankulathur, Tamil Nadu"
+      }
+    ],
+    "Internships": [
+      {
+        "Company": "Deloitte",
+        "Role": "Technology Virtual Experience Program",
+        "Start Date": "June 2023",
+        "End Date": "June 2023",
+        "Responsibilities": [
+          "Explored emerging technologies and trends through virtual workshops, webinars, and self-paced learning modules.",
+          "Covered topics in data analysis, development, and cyber security.",
+          "Engaged in coding challenges and problem-solving exercises to apply theoretical knowledge to real-world scenarios."
+        ]
+      },
+      {
+        "Company": "AICTE",
+        "Role": "AIML Virtual Intern",
+        "Start Date": "July",
+        "End Date": "July",
+        "Responsibilities": [
+          "Tackled complex AI/ML problems, collaborated with peers, and delivered solutions within specified timelines.",
+          "Collaborated with industry experts and mentors, receiving guidance, feedback, and insights into the latest trends and best practices in AI/ML."
+        ]
+      }
+    ],
+    "Projects": [
+      {
+        "Name": "E-Krushi",
+        "Technologies": ["React.js", "HTML", "CSS", "JavaScript"],
+        "URL": "https://github.com/SREYA-PALO/E-KRUSHI",
+        "Description": [
+          "E-Krushi is a dynamic farming website combining HTML, CSS, JavaScript, and React.js to deliver essential agricultural insights.",
+          "HTML structures the content, defining elements like crop profiles and watering tips.",
+          "CSS ensures a visually appealing and responsive layout.",
+          "JavaScript adds interactivity, enabling features such as dropdown menus and real-time updates.",
+          "React.js facilitates component-based development, optimizing code reusability and scalability."
+        ]
+      },
+      {
+        "Name": "Binary Babble",
+        "Technologies": ["Python"],
+        "URL": "https://github.com/SREYA-PALO/BINARYBABBLE",
+        "Description": [
+          "Binary Babble is a sophisticated TCP chat application coded in Python, featuring advanced functionalities and admin control.",
+          "Users engage in real-time communication over TCP/IP, facilitated by Python’s robust networking capabilities.",
+          "The admin, with a password-protected interface, possesses exclusive monitoring privileges.",
+          "Prioritizes user privacy and data integrity through secure authentication mechanisms and encrypted transmissions."
+        ]
+      },
+      {
+        "Name": "Know Me",
+        "Technologies": ["HTML", "CSS", "JavaScript"],
+        "URL": "https://github.com/SREYA-PALO/KNOW-ME-",
+        "Description": [
+          "Know Me is a web project where HTML provides the structural foundation, CSS adds style, and JavaScript enhances interactivity.",
+          "Implemented to create a captivating and responsive web experience, allowing visitors to explore projects, skills, and contact information effortlessly."
+        ]
+      }
+    ],
+    "Technical Skills": {
+      "Languages": ["C", "C++", "Python"],
+      "Technologies": ["React.js", "Express.js", "TensorFlow", "PyTorch", "Node.js", "HTML", "CSS", "JavaScript"],
+      "Concepts": ["Operating System", "Encryption", "Decryption", "Artificial Intelligence", "Machine Learning", "Neural Networks", "Agile Methodology", "Cloud Computing"]
+    },
+    "Coding Profiles": {
+      "HackerRank": "https://www.hackerrank.com/profile/sreyapalo8181",
+      "CodeChef": "https://www.codechef.com/users/srmistk_380"
+    }
+  }
+  
